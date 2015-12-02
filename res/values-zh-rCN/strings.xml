@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrintDemo</string>
+    <string name="none_paired">没有已匹配的设备</string>
+    <string name="scanning">搜索</string>
+    <string name="select_device">选择一个设备连接</string>
+    <string name="none_found">未发现设备</string>
+    <string name="btnSearch">连接蓝牙打印机</string>
+    <string name="btnSend">打印</string>
+    <string name="btn_test">打印测试页</string>
+    <string name="btnClose">关闭</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="menu_settings">设置</string>
+    <string name="strLang">ch</string>
+    <string name="button_scan">搜索</string>
+
+</resources>
